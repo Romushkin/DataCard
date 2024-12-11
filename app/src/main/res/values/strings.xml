@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataCard</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="birthday">Выбрать дату рождения</string>
+    <string name="phone">Телефон</string>
+    <string name="save">Сохранить</string>
+    <string name="exit">Exit</string>
+</resources>
